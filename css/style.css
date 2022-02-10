@@ -266,6 +266,6 @@ span {
 }
 
 .fitness-man-picture {
-    width: 401px;
-    height: 674px;
+    max-width: 401px;
+    max-height: 674px;
 }
